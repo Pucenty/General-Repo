@@ -2,6 +2,7 @@
 
 echo DO YOU WANT YOUR COMPUTER TO SHUTDOWN? (y/n)
 set /p Input=Enter y or n:
+
 if /I "%Input%"=="y" (goto yes) else (goto no)
 :yes
 shutdown -a
