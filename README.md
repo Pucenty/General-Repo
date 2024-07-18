@@ -1,4 +1,4 @@
 # mrpucenty's Public Repo
 Repo for various helpful .bat .sh scripts
 
-my CV: https://github.com/Pucenty/development-remote/blob/development-remote/my_resume_2022_from_Linkedin.pdf
+my CV: https://github.com/Pucenty/General-Repo/blob/development-remote/Krzysztof_Niedzielski_-_Cloud_DevOps_engineer.pdf
